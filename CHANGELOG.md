@@ -3,7 +3,17 @@
 ## Current Develop Branch
 
 ## 7.3.0 Fri Sep 27 2019
+- [#6972](https://github.com/MetaMask/metamask-extension/pull/6972): 3box integration
 - [#7168](https://github.com/MetaMask/metamask-extension/pull/7168): Add fixes for German translations
+- [#7170](https://github.com/MetaMask/metamask-extension/pull/7170): Remove the disk store
+- [#7176](https://github.com/MetaMask/metamask-extension/pull/7176): Performance: Delivery optimized images
+- [#7189](https://github.com/MetaMask/metamask-extension/pull/7189): add goerli to incoming tx
+- [#7190](https://github.com/MetaMask/metamask-extension/pull/7190): Remove unused locale messages
+- [#7173](https://github.com/MetaMask/metamask-extension/pull/7173): Fix RPC error messages
+- [#7205](https://github.com/MetaMask/metamask-extension/pull/7205): address book entries by chainId
+- [#7207](https://github.com/MetaMask/metamask-extension/pull/7207): obs-store/local-store should upgrade webextension error to real error
+- [#7162](https://github.com/MetaMask/metamask-extension/pull/7162): Add a/b test for full screen transaction confirmations
+- [#7089](https://github.com/MetaMask/metamask-extension/pull/7089): Add advanced setting to enable editing nonce on confirmation screens
 
 ## 7.2.2 Tue Sep 24 2019
 - [#7213](https://github.com/MetaMask/metamask-extension/pull/7213): Update minimum Firefox verison to 56.0
